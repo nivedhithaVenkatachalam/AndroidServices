@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidServices</string>
+    <string name="action_settings">Settings</string>
+    <string name="close">Close</string>
+    <string name="pdfdownload">PDFs Download Activity</string>
+    <string name="satext">The purpose of the app is to learn the role of android system in creating and managing the lifecycle of Bound and Local services.</string>
+    <string name="title_activity_pdfdownload">Pdfdownload</string>
+    <string name="pdftext">Please provide list of 5 PDFs to download.</string>
+    <string name="start">Start Download!</string>
+    <string name="pdf1">PDF1 File Location: </string>
+    <string name="pdf2">PDF2 File Location: </string>
+    <string name="pdf3">PDF3 File Location: </string>
+    <string name="pdf4">PDF4 File Location: </string>
+    <string name="pdf5">PDF5 File Location: </string>
+</resources>
